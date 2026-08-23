@@ -8,7 +8,7 @@ Este repositorio contiene los datos y *Jupyter Notebooks* necesarios para realiz
 
 Para evitar la instalación de software local, todo el ejercicio se llevará a cabo en la nube a través de Google Colab.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/TU_REPOSITORIO/blob/main/EcoHidro_Ejercicio_Alumnos.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcojimenezs/EcoHidro_ENCiT/blob/main/EcoHidro_Ejercicio_Alumnos.ipynb)
 
 > **Nota para el profesor:** *Asegúrate de reemplazar `TU_USUARIO` y `TU_REPOSITORIO` en el enlace de arriba una vez que subas esto a tu cuenta.*
 
