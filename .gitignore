@@ -1,0 +1,6 @@
+# Archivos del sistema
+.DS_Store
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
